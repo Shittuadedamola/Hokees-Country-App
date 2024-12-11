@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    height: 80px;
+}
+
+input{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+    display: flex;
+}
+
+select{
+    width: 200px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+    /* display: flex; */
+    /* align-items: center; */
+    margin: auto;
+}

@@ -1,0 +1,19 @@
+/* #mainDiv{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    padding-left: 45px;
+} */
+
+/* #countriesInfo{
+    width: 80%;
+    background-color: antiquewhite;
+    margin-top: 40px;
+    padding-bottom: 10px;
+} */
+
+h2, span, button {
+    margin-left: 10px;
+    font-weight: bold;
+}
